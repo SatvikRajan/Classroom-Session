@@ -32,8 +32,6 @@ input {
   text-align: right;
   color: white;
   cursor: pointer;
-}
-input{
   border: 2px solid white;
 }
 input::placeholder {
